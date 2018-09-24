@@ -1,0 +1,7 @@
+E:\MyProjects\InversionOfControl\InversionOfControl\bin\Debug\InversionOfControl.exe.config
+E:\MyProjects\InversionOfControl\InversionOfControl\bin\Debug\InversionOfControl.exe
+E:\MyProjects\InversionOfControl\InversionOfControl\bin\Debug\InversionOfControl.pdb
+E:\MyProjects\InversionOfControl\InversionOfControl\obj\Debug\InversionOfControl.csprojAssemblyReference.cache
+E:\MyProjects\InversionOfControl\InversionOfControl\obj\Debug\InversionOfControl.csproj.CoreCompileInputs.cache
+E:\MyProjects\InversionOfControl\InversionOfControl\obj\Debug\InversionOfControl.exe
+E:\MyProjects\InversionOfControl\InversionOfControl\obj\Debug\InversionOfControl.pdb
